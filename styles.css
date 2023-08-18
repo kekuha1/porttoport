@@ -360,8 +360,8 @@ article .icon {
 
 .project-img {
   border-radius: 2rem;
-  height: 50vh;
-  width: 50vh;
+  height: 50dvh;
+  width: 50dvh;
 }
 .project-title {
   margin: 1rem;
